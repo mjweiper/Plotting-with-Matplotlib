@@ -26,5 +26,5 @@ Taking a closer look into Capolulin I wanted to looking into correlation and reg
 
 ![correlation](Images/Picture5.png)
 
-Contact -
+Contact
 mattweiper@gmail.com
