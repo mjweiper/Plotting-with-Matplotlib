@@ -8,6 +8,8 @@ I was tasked with analyzing data from study of tumor growth in mice that were tr
 
 I decided to use Python and supportive libraries for analysis. Starting out I created a jupyter notebook so I could import data and create new dataframes for analysis. I imported my dependencies and csv files so I could merge my two files (pictured below). 
 
+![Cleaning](Images/Picture2.png)
+
 
 ## Data Analysis
 
